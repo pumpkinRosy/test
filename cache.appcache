@@ -1,0 +1,9 @@
+CACHE MANIFEST
+CACHE:
+/myapp/load/d24.2.html
+#/myapp/load/test2.js
+#/cache.appcache
+
+
+NETWORK:
+/test.js
